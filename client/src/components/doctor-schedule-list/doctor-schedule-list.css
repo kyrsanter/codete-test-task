@@ -1,0 +1,13 @@
+.date-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #00dcff;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.date-wrapper .date-item {
+    color: #000;
+    font-size: 1rem;
+}
